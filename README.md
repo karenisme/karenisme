@@ -43,7 +43,7 @@ Tools      → Git • VS Code • tmux
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,ts,nodejs,fastapi,docker,linux,nginx,cloudflare,vscode&theme=dark"> </p>
 
-🔥 CURRENT PROJECTS
+### 🔥 CURRENT PROJECTS
 Project	Status	Description
 🚀 Boost Bot v2	Evolving	Next-gen Discord boost automation
 ⚡ Token Validator++	Active	Ultra-fast multi-thread checker
